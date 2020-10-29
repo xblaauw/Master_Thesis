@@ -7,5 +7,5 @@ Contains the scripts used to transform PV power data as well as KNMI meteorologi
 ## Results
 Contains the results of the MSc Thesis research. Scripts and results are seperated by temporal horizon, Model archetype and DWT implementation. The gridsearch results can be found in the .csv files.
 
-## Ramp score classification
+### Ramp score classification
 The ramp score classification notebook file contains an unfinished example of how the ramp error could be used to classify rather than forecast PV system power output 32 minutes into the future. Although unfinished and likely flawed, the results are promosing!
